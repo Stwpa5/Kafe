@@ -28,7 +28,7 @@ if (isset($_GET['submit'])) {
 <!DOCTYPE html>
 <html>
 	<head>
-        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta charset="UTF-8" >
 
         <style>
             table,tr,td{
